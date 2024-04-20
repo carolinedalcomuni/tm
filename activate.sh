@@ -1,0 +1,1 @@
+conda activate /Users/carolinemoura/tm/.venv
